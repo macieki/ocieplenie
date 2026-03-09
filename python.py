@@ -158,7 +158,7 @@ def gas_cost_pln(
 
 
 # ---------- ui ----------
-st.title("kalkulator docieplenia ściany i kosztów ogrzewania gazem")
+st.title("Moniuszki 5/6 Toruń - kalkulator docieplenia ściany i kosztów ogrzewania gazem")
 st.caption("model uproszczony: przenikanie przez przegrodę (bez mostków cieplnych, wentylacji i zysków).")
 
 col_a, col_b = st.columns([1.1, 1.0], gap="large")
